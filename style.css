@@ -1,0 +1,369 @@
+body {
+    background-color: lightblue;
+    background-size: cover;
+}
+
+.box:hover {
+    animation: bounce 0.4s ease;
+}
+
+.main7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.main1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.main1:hover {
+    animation: bounce 0.4s ease;
+}
+
+.main2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.main2:hover {
+    animation: bounce 0.4s ease;
+}
+
+.main3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.main3:hover {
+    animation: bounce 0.4s ease;
+}
+
+.main4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.main4:hover {
+    animation: bounce 0.4s ease;
+}
+
+.main5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.main5:hover {
+    animation: bounce 0.4s ease;
+}
+
+.main6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.main6:hover {
+    animation: bounce 0.4s ease;
+}
+
+.class2 {
+    border: solid #808080;
+    width: 60px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+}
+
+.class2:hover {
+    background-color: #808080;
+}
+
+.class2:hover {
+    animation: bounce 0.4s ease;
+}
+
+@keyframes bounce {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.class3 {
+    border: solid #808080;
+    width: 60px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+}
+
+.class3:hover {
+    background-color: #808080;
+}
+
+.class3:hover {
+    animation: bounce 0.4s ease;
+}
+
+@keyframes bounce {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.class4 {
+    border: solid #808080;
+    width: 60px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+}
+
+.class4:hover {
+    background-color: #808080;
+}
+
+.class4:hover {
+    animation: bounce 0.4s ease;
+}
+
+@keyframes bounce {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.class5 {
+    border: solid #808080;
+    width: 60px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+}
+
+.class5:hover {
+    background-color: #808080;
+}
+
+.class5:hover {
+    animation: bounce 0.4s ease;
+}
+
+@keyframes bounce {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.class6 {
+    border: solid #808080;
+    width: 60px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+}
+
+.class6:hover {
+    background-color: #808080;
+}
+
+.class6:hover {
+    animation: bounce 0.4s ease;
+}
+
+@keyframes bounce {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.class7 {
+    border: solid #808080;
+    width: 60px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+}
+
+.class7:hover {
+    background-color: #808080;
+}
+
+.class7:hover {
+    animation: bounce 0.4s ease;
+}
+
+@keyframes bounce {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.class8 {
+    border: solid #808080;
+    width: 60px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+}
+
+.class8:hover {
+    background-color: #808080;
+}
+
+.class8:hover {
+    animation: bounce 0.4s ease;
+}
+
+@keyframes bounce {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.class9 {
+    justify-content: center;
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+
+.child1 {
+    justify-content: left;
+    display: flex;
+    position: relative;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.child1:hover {
+    animation: bounce 0.4s ease;
+}
+
+.child2 {
+    justify-content: center;
+    display: flex;
+    position: relative;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.child2:hover {
+    animation: bounce 0.4s ease;
+}
+
+.child3 {
+    justify-content: right;
+    display: flex;
+    position: relative;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.child3:hover {
+    animation: bounce 0.4s ease;
+}
+
+.child {
+    justify-content: center;
+    display: flex;
+    position: relative;
+    align-items: center;
+    gap: 10;
+}
+
+.child5 {
+    color: black;
+}
